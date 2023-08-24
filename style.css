@@ -1,0 +1,22 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #1a1b1d;
+}
+
+.Sosmed a i {
+  font-size: 2em;
+}
+
+.footerbottom {
+  background-color: var(#7d9cda);
+  color: var(#6a7997);
+  padding: 10px;
+  text-align: center;
+}
